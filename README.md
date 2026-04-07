@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Qingming（青冥）
 
 🎓 PhD Student   
-🔬 研究方向：光学测量 / 干涉技术 / 拼接算法
+🔬 研究方向：光学测量 / 干涉技术 / 拼接算法  
 🔬 Optical Metrology | Interferometry | Stitching Algorithm  
 💻 技术方向：Python / C++ / 科学计算 
 🌏 CN 🇨🇳 | JP 🇯🇵 | EN 🇺🇸  
