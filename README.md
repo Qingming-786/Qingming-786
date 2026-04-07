@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Qingming（青冥）
+# 👋 Hi, I'm Qingming
 
 🎓 PhD Student   
 🔬 研究方向：光学测量 / 干涉技术 / 拼接算法  
