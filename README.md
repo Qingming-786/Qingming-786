@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Qingming（青冥）
 
-<!--
-**Qingming-786/Qingming-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Student   
+🔬 研究方向：光学测量 / 干涉技术 / 拼接算法
+🔬 Optical Metrology | Interferometry | Stitching Algorithm  
+💻 技术方向：Python / C++ / 科学计算 
+🌏 CN 🇨🇳 | JP 🇯🇵 | EN 🇺🇸  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Research Focus
+
+- Subaperture Stitching Interferometry  
+- Freeform Surface Measurement  
+- Optical System Alignment & Testing  
+- Error Modeling & Compensation  
+- AI-assisted Optical Metrology  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Optical Stitching Algorithm (Working)
+- Plate model (Kirchhoff / Mindlin / DKQ)
+- Global optimization (Least Squares)
+- Overlap region constraint
+
+👉 Building...
+
+---
+
+### 🔹 Interferometry Study Notes
+- Zernike fitting
+- Piston / Tilt removal
+- Error sources analysis
+
+👉 Coming soon
+
+---
+
+## 📊 Skills
+
+- Python / NumPy / MATLAB  
+- C++ (Scientific Computing)  
+- Zemax (Optical Design)  
+- Interferometry (ZYGO / 4D )  
+
+---
+
+## 📈 Current Goal
+
+Touch the fish.
+
+---
